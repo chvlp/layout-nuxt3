@@ -1,0 +1,4 @@
+<template>
+  <!-- <NuxtWelcome /> -->
+  <NuxtPage />
+</template>
